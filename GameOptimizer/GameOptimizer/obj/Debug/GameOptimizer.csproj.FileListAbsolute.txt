@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\obj\Debug\GameOptimizer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\obj\Debug\GameOptimizer.Form1.resources
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\obj\Debug\GameOptimizer.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\obj\Debug\GameOptimizer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.Properties.Resources.resources
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\bin\Debug\PCOptimizer.exe.config
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\bin\Debug\PCOptimizer.exe
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\bin\Debug\PCOptimizer.pdb
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.exe
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.pdb
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.Dados.resources
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.Initial.resources
+C:\Users\User\source\repos\GameOptimizer\GameOptimizer\obj\Debug\PCOptimizer.Optimizer.resources
